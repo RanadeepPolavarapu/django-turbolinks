@@ -1,5 +1,6 @@
 django-turbolinks
 ===========
+A custom port of the Ruby on Rails Turbolinks with newest jQuery.Turbolinks.
 
 Installation
 ------------
